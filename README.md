@@ -1,3 +1,13 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/JercOmg/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JercOmg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JercOmg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JercOmg&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 # 💫 About Me:
 Soy un Ingeniero de Software apasionado por el desarrollo Full-Stack y el Machine Learning. Me especializo en construir aplicaciones web completas, creando interfaces dinámicas con React y desarrollando arquitecturas backend robustas con Node.js, Express y Python. Tengo experiencia práctica en el diseño y consumo de APIs RESTful, la creación de Progressive Web Apps (PWA) y la implementación de modelos de aprendizaje automático. Me motiva resolver problemas complejos, optimizar el rendimiento y crear soluciones escalables.
 
